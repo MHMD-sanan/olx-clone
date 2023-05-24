@@ -1,10 +1,10 @@
 import React from 'react';
 
-import Header from '../Components/Header/Header';
-import Banner from '../Components/Banner/Banner';
+import Header from '../components/header/Header';
+import Banner from '../components/banner/Banner';
 
-import Posts from '../Components/Posts/Posts';
-import Footer from '../Components/Footer/Footer';
+import Posts from '../components/posts/Posts';
+import Footer from '../components/footer/Footer';
 
 function Home(props) {
   return (

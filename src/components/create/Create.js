@@ -3,7 +3,7 @@ import { getStorage, ref, uploadBytes, getDownloadURL } from "firebase/storage";
 import { collection, addDoc } from "firebase/firestore";
 
 import "./Create.css";
-import Header from "../Header/Header";
+import Header from "../header/Header";
 import { AuthContext, FireBaseContext } from "../../store/FireBaseContext";
 import { useNavigate } from "react-router-dom";
 
